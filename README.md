@@ -1,8 +1,9 @@
 # CPUControl
 Anzeige der CPU Informationen auf OLED Display
 
-Activat env:
--  source venv/bin/activate
+Create virtuall environment and activat it:
+- python3 -m venv .venv 
+- source venv/bin/activate
 
 run requirements.txt:
 - pip3 install -r requirements.txt
