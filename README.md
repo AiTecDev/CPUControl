@@ -7,10 +7,10 @@ Create virtuall environment and activat it:
 - source .venv/bin/activate
 
 run requirements.txt:
-- pip3 install -r requirements.txt
+- sudo pip3 install -r requirements.txt
 
 run install.sh:
-- source install.sh <PW>
+- sudo source install.sh <PW>
 
 run display-server.py:
-- python3 display-server.py
+- sudo python3 display-server.py
