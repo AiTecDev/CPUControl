@@ -2,6 +2,7 @@
 Anzeige der CPU Informationen auf OLED Display
 
 Create virtuall environment and activat it:
+- sudo apt-get install python3-venv
 - python3 -m venv .venv 
 - source venv/bin/activate
 
